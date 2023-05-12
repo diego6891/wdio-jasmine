@@ -1,10 +1,9 @@
 {
-  "name": "jasmine-boilerplate",
+  "name": "wdio-heartland",
   "version": "1.0.0",
-  "author": "Christian Bromann <christian@saucelabs.com>",
-  "description": "Boilerplate project to run WebdriverIO tests with Jasmine",
+  "author": "Diego Iriarte <diegoiriarte@live.com.ar>",
+  "description": "Project to run WebdriverIO tests for Heartland position",
   "license": "MIT",
-  "homepage": "https://github.com/webdriverio/jasmine-boilerplate#readme",
   "type": "module",
   "keywords": [
     "webdriver",
@@ -14,13 +13,6 @@
     "selenium",
     "test"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/webdriverio/jasmine-boilerplate.git"
-  },
-  "bugs": {
-    "url": "https://github.com/webdriverio/jasmine-boilerplate/issues"
-  },
   "scripts": {
     "start": "wdio run wdio.local.conf.ts"
   },
