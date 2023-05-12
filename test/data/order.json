@@ -1,0 +1,11 @@
+{
+    "firstName" : "Lionel",
+    "lastName" : "Messi",
+    "emailAddress" : "liomessi10@gmail.com",
+    "phone" : "456-7890",
+    "address" : "Maradona 10 Street",
+    "city" : "Santa Fe",
+    "zip" : "3000",
+    "country" : "Anguilla",
+    "state" : "Santa Fe"
+}
